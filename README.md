@@ -1,5 +1,5 @@
 # ✈️ British Airways Reviews Dashboard
-[View Dashboard on Tableau Public 🔗](https://public.tableau.com/app/profile/sarvagya.varma/viz/BritishAirwaysReview_17416824778200/BritishAirwaysReviewsDashboard)
+[View Dashboard on Tableau Public 🔗](https://public.tableau.com/views/BritishAirwaysReviews_17441099641920/BritishAirwaysReviewsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Overview
 This project is a data visualization dashboard created using **Tableau** to analyze customer reviews for **British Airways**. The goal is to provide a comprehensive view of customer sentiments, ratings, and feedback trends to identify strengths, weaknesses, and opportunities for improving airline services.
@@ -37,6 +37,6 @@ The data for this project is sourced from public review datasets for British Air
 > `![Dashboard Screenshot](dashboard-preview.png)`
 
 ## 📌 How to Use
-1. Visit the dashboard via [Tableau Public](https://public.tableau.com/app/profile/sarvagya.varma/viz/BritishAirwaysReview_17416824778200/BritishAirwaysReviewsDashboard)
+1. Visit the dashboard via [Tableau Public](https://public.tableau.com/views/BritishAirwaysReviews_17441099641920/BritishAirwaysReviewsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2. Explore tabs and filters to interact with the data
 3. Gain insights from the visual components for strategic decisions
